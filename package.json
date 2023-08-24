@@ -1,0 +1,30 @@
+{
+  "name": "theme-craft",
+  "version": "1.0.0",
+  "description": "Tiny utility for generating CSS class strings based on predefined theme objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianstecos/theme-craft.git"
+  },
+  "keywords": [
+    "css",
+    "cva",
+    "classnames",
+    "styles",
+    "theme",
+    "merge"
+  ],
+  "author": "Cosmin Iancu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianstecos/theme-craft/issues"
+  },
+  "homepage": "https://github.com/ianstecos/theme-craft#readme",
+  "dependencies": {
+    "clsx": "^2.0.0"
+  }
+}
